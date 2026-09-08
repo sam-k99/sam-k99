@@ -1,5 +1,6 @@
 # Hello, I'm Sam  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /> 
 I'm a developer who builds mostly for the love of the game — but plenty of my projects are also real-world ML and pipeline work. Fueled by coffee and song. ☕🎧
+
 <div align="center">
 <br/>
 <a href="https://your-website.com">
@@ -11,10 +12,13 @@ I'm a developer who builds mostly for the love of the game — but plenty of my 
 <img src="https://komarev.com/ghpvc/?username=sam-k99&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 <br/>
-##  Support My Work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Exclamation.png" alt="Heart" width="32" height="32" />
+
+## Support My Work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Exclamation.png" alt="Heart" width="32" height="32" />
 If my projects have helped you out, consider buying me a coffee — every bit helps me keep building and open-sourcing more.
+
 <div align="center">
   <br/>
+  
 <a href="https://ko-fi.com/sam-k99">
   <img src="https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
 </a>

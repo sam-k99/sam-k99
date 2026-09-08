@@ -1,6 +1,6 @@
 
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /> Hi, I'm Sam
+ Hi, I'm Sam  # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /> 
 
 <em> Developer, building things one commit at a time.</em><br/>
 <em>Fueled by coffee and cat cuddles 🐱</em>

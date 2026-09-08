@@ -2,7 +2,7 @@
 
 # Hello, I'm Sam  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /> 
 
-<em> Developer, building things one commit at a time.</em><br/>
+<em> Hello i'm a developer, and most of things i build are just for the love of the game. but there are some other project i also which ofc i build for shake building.</em><br/>
 <em>Fueled by coffee and cat cuddles 🐱</em>
 
 <div align="center">
@@ -20,38 +20,15 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="22" height="22" /> About Me
 
--  Self-taught developer — coding since 2021 (1+ year journey)
--  Currently building open-source side projects
--  Ask me about anything I've shipped — happy to talk shop
--  Fun fact: my best debugging happens with a cat on my lap
 
-<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="22" height="22" /> Tech Stack
 
-<div align="center">
 
-<!-- Edit the "skills=" list to match your actual stack. Full icon list: https://skillicons.dev -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github&theme=dark" alt="Tech stack icons" />
-
-</div>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="22" height="22" /> GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sam-k99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://streak-stats.demolab.com?user=sam-k99&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-
-</div>
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="22" height="22" /> Support My Work
+##  Support My Work  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Heart%20Exclamation.png" alt="Coin" width="22" height="22" />
 
 <div align="center">
 

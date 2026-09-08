@@ -35,7 +35,7 @@ I'm a self-taught developer with 1+ year coding journey. I started in 2021.
 </div>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Programming Stats
+
 
 
 

@@ -27,6 +27,7 @@ If my projects have helped you out, consider buying me a coffee — every bit he
 
 
 <div align="center">
+  <br/>
 <a href="https://ko-fi.com/sam-k99">
   <img src="https://img.shields.io/badge/Support_on_Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
 </a>

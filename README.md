@@ -27,9 +27,9 @@
 
 
 <br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smiles/Heart%20Exclamation.png" alt="Heart" width="22" height="22" />
 
-##  Support My Work  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smiles/Heart%20Exclamation.png" alt="Heart" width="22" height="22" />
-
+##  Support My Work  
 <div align="center">
 
 If my projects have helped you out, consider buying me a coffee — every bit helps me keep building and open-sourcing more.

@@ -69,7 +69,7 @@ If my projects have helped you out, consider buying me a coffee — every bit he
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="42" height="42" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Cat" width="42" height="42" />
 
 <sub>Thanks for stopping by — have a great day! 😊</sub>
 

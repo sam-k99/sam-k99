@@ -21,10 +21,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="22" height="22" /> About Me
 
-- 🌱 Self-taught developer — coding since 2021 (1+ year journey)
-- 🔭 Currently building open-source side projects
-- 💬 Ask me about anything I've shipped — happy to talk shop
-- ⚡ Fun fact: my best debugging happens with a cat on my lap
+-  Self-taught developer — coding since 2021 (1+ year journey)
+-  Currently building open-source side projects
+-  Ask me about anything I've shipped — happy to talk shop
+-  Fun fact: my best debugging happens with a cat on my lap
 
 <br/>
 

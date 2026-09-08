@@ -31,7 +31,7 @@ I'm a self-taught developer with 1+ year coding journey. I started in 2021.
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,cpp,rust,py,bun,mongodb,react,postgres,apple,linux&theme=dark" />
+ 
 </div>
 </div>
 

@@ -6,11 +6,7 @@ I'm a developer who builds mostly for the love of the game — but plenty of my 
 <a href="https://your-website.com">
   <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website" />
 </a>
-<a href="https://github.com/sam-k99?tab=repositories&sort=stargazers">
-  <img alt="Total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sam-k99?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=sam-k99&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</div>
+
 <br/>
 
 ## Support My Work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Exclamation.png" alt="Heart" width="32" height="32" />

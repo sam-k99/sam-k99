@@ -2,8 +2,8 @@
 
 # Hello, I'm Sam  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="32" height="32" /> 
 
-<em> Hello i'm a developer, and most of things i build are just for the love of the game. but there are some other project i also which ofc i build for shake building.</em><br/>
-<em>Fueled by coffee and cat cuddles 🐱</em>
+Hello i'm a developer, and most of things i build are just for the love of the game. but there are some other project i also which ofc i build for shake building.</em><br/>
+Fueled by coffee and song.</em>
 
 <div align="center">
 <br/>

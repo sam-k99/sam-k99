@@ -1,1 +1,9 @@
-<img width="1000" height="420" alt="R_catppuccin_mocha_rounded" src="https://github.com/user-attachments/assets/c5c88863-8448-41e6-81be-6236fb86e696" />
+User: ~sam - k99
+-----------------------------------------
+OS                : Arch, FreeBSD, OpenBSD, Windows 11
+Host              : NeoBill.PVL
+IDE               : NeoVim, VS Code
+Lang.Programming  : Python, C, Lua, Rust, JavaScript
+Lang.Computer     : HTML, CSS, JSON, .conf
+Learning          : Rust, Docker
+Hobbies           : Whatever i find interesting

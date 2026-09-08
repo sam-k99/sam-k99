@@ -29,7 +29,7 @@
 <br/>
 
 
-##  Support My Work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Exclamation.png" alt="Heart" width="22" height="22" />
+##  Support My Work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Exclamation.png" alt="Heart" width="32" height="32" />
 
 <div align="center">
 

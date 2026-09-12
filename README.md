@@ -8,7 +8,7 @@ what I learn along the way.
 **Featured projects:** Self-Healing Pipeline · Anomaly Engine · LLM Gateway
 
 
-Currently learning Rust and looking for ner opportunities.
+Currently learning Rust and looking for new opportunities.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="50" height="50" />

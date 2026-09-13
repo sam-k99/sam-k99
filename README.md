@@ -11,9 +11,9 @@ what I learn along the way.
 Currently learning Rust and looking for new opportunities.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="50" height="50" />
   
-  <sub>Thanks for visiting my profile! Have a great day! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="20" height="20" />  </sub>
+  
+  <sub>Thanks for visiting my profile! Have a great day! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" width="25" height="25" />  </sub>
 </div>
 
 

@@ -1,7 +1,7 @@
 
 ### Hi, I'm Sameer 
 
-Data engineer focused on pipelines that recover from their own failures.
+Data engineer focused on building systems and data pipelines that recover from their own failures.
 I build with Python, Kafka, Airflow, dbt, and LangGraph and I write about
 what I learn along the way.
 
@@ -15,3 +15,6 @@ Currently learning Rust and looking for new opportunities.
   
   <sub>Thanks for visiting my profile! Have a great day! 😊</sub>
 </div>
+
+
+

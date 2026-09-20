@@ -1,14 +1,14 @@
 
 ### Hi, I'm Sameer 
 
-Data engineer focused on building systems and data pipelines that recover from their own failures.
+Data engineer focused on building automation systems and data pipelines.
 I build with Python, Kafka, Airflow, dbt, and LangGraph and I write about
 what I learn along the way.
 
 **Featured projects:** Self-Healing Pipeline · Anomaly Engine · LLM Gateway
 
 
-Currently learning Rust and looking for new opportunities.
+Recently exploring arch...
 
 <div align="center">
   
